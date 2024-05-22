@@ -1,0 +1,48 @@
+
+
+h1{
+    text-align: center;
+}
+ 
+table {
+    text-align: center;
+    color: #333; 
+    border-collapse: separate; 
+    border-spacing: 0; 
+    width: 100%; 
+    margin: 20px 0; 
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px; 
+}
+ 
+table td, table th {
+    border: 1px solid #ddd; 
+    padding: 10px;
+    min-width: 160px;
+    background-color: #f8f8f8; 
+    border-radius: 5px; 
+    margin: 2px; 
+}
+ 
+.adjust-update-link {
+    margin-left: 10px;
+    color: #007bff; 
+    text-decoration: none; 
+}
+ 
+
+.adjust-update-link:hover {
+    text-decoration: underline; 
+    color: #0056b3; 
+}
+h1{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif ;
+    background-color: blanchedalmond;
+    font-size: x-large;
+}

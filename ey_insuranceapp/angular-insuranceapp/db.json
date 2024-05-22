@@ -1,0 +1,220 @@
+{
+  "seller": [
+    {
+      "name": "test",
+      "email": "test@sell.com",
+      "password": "abc3@123",
+      "id": "2"
+    },
+    {
+      "name": "elizabeth",
+      "password": "abc@123",
+      "email": "elizabeth@test.com",
+      "id": "3"
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": "4"
+    },
+    {
+      "name": "prayas",
+      "password": "prayas123",
+      "email": "prayas@test.com",
+      "id": "5"
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": "6"
+    },
+    {
+      "name": "joe",
+      "password": "abc@123",
+      "email": "joe@test.com",
+      "id": "7"
+    },
+    {
+      "name": "john",
+      "password": "john@123",
+      "email": "john@test.com",
+      "id": "8"
+    }
+  ],
+  "products": [
+    {
+      "name": "Bajaj Allianz",
+      "price": "6000.00",
+      "category": "Health",
+      "duration": "1",
+      "description": "Experience peace of mind with our comprehensive health coverage plan, designed to provide you with extensive medical support and financial protection when you need it the most. Our plan includes a wide array of benefits and perks, ensuring that you and your loved ones are covered for various health-related needs. ",
+      "image": "https://cdn-res.keymedia.com/cms/images/us/003/0308_638061038182977462.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Bajaj Allianz",
+      "price": "3000.00",
+      "category": "Car",
+      "duration": "2",
+      "description": "Our comprehensive car insurance plan offers extensive coverage for a wide range of car models, ensuring you drive with confidence and peace of mind. This plan provides robust protection against damages resulting from accidents, theft, natural disasters, and vandalism. Whether you own a compact car, an SUV, or a luxury vehicle, our insurance plan is tailored to meet the specific needs of your vehicle.",
+      "image": "https://c.ndtvimg.com/2022-05/somll848_car_120x90_13_May_22.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Bajaj Allianz",
+      "price": "4000",
+      "category": "Life",
+      "duration": "3",
+      "description": "Our whole life insurance policy offers lifelong coverage, providing you with peace of mind and financial security for your entire life. In addition to a guaranteed death benefit for your beneficiaries, this policy builds cash value over time, which you can borrow against or withdraw for various financial needs. This combination of enduring protection and a growing cash asset makes our whole life insurance an ideal choice for those seeking stability and long-term financial planning.",
+      "image": "https://th.bing.com/th/id/R.ee35de5ca198d6c8a99394b4f7673020?rik=kWywYcrciMpFuw&riu=http%3a%2f%2fbaldersoninsurance.com%2fwp-content%2fuploads%2f2016%2f04%2fLife-Insurance-Family-1.jpeg&ehk=FH%2ffZRiiI%2fSH9WylWVVuAsW39HqCkOccAGf6A8koWmo%3d&risl=&pid=ImgRaw&r=0",
+      "id": "3"
+    },
+    {
+      "name": "Aditya Birla",
+      "price": "4500",
+      "category": "Health",
+      "duration": "5",
+      "description": "Our customizable health insurance plan offers flexible coverage tailored to your unique needs, along with added benefits that enhance your healthcare experience. You can choose from a range of options such as comprehensive hospitalization coverage, outpatient services, and preventive care. Enjoy additional perks like cashless treatment at a wide network of hospitals, wellness programs, and 24/7 telemedicine support. This plan ensures that you receive personalized protection and extra value, promoting both your immediate and long-term health.",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.BsQ-s4KfcuZXhDkCJucibAHaE8?w=750&h=500&rs=1&pid=ImgDetMain",
+      "id": "4"
+    },
+    {
+      "name": "Aditya Birla",
+      "price": "2500",
+      "category": "Car",
+      "duration": "1",
+      "description": "Our car insurance plan offers comprehensive coverage along with additional benefits to enhance your driving experience. Enjoy the peace of mind that comes with extensive protection against accidents, theft, and natural disasters, tailored for various car models. Included is 24/7 roadside assistance, providing prompt help with services like emergency towing, flat tire changes, and battery jump-starts. Plus, benefit from cashless repairs at an extensive network of authorized service centers, ensuring swift and hassle-free claims processing. Drive confidently knowing that our car insurance keeps you protected on every journey.",
+      "image": "https://cdn.shopify.com/s/files/1/0703/1149/files/AdobeStock_217117805_large.jpeg?v=1572720487",
+      "id": "6"
+    },
+    {
+      "name": "Aditya Birla",
+      "price": "2000",
+      "category": "Life",
+      "duration": "2",
+      "description": "Our universal life insurance offers the flexibility to adjust your premiums and benefits, adapting to your changing financial needs over time. This plan combines lifelong protection with the ability to build cash value, which can grow based on market interest rates. You can modify your premium payments and death benefits to align with your financial goals, providing a dynamic approach to life insurance that evolves with you. Enjoy the security of knowing you have a policy that offers both protection and investment potential, tailored to fit your life's journey.",
+      "image": "https://blogs-images.forbes.com/timmaurer/files/2016/01/Life-Insurance.jpg",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "LIC",
+      "price": "5500.00",
+      "category": "Health",
+      "duration": "1",
+      "description": "LIC's health insurance plan is designed to provide comprehensive coverage and financial support during medical emergencies. Our plan ensures that you have access to the best medical care without worrying about the costs. It includes hospitalization benefits, pre and post-hospitalization expenses, and a cashless facility at a vast network of hospitals.",
+      "image": "https://2.bp.blogspot.com/-J1f7TV69GI0/XOJpbnLub0I/AAAAAAAAF_Y/WUvf3zjNFZsD1Ap1v-qc3F7q1IbMOxSAwCLcBGAs/s640/LIC%2BADO%2BRecruitment.jpg"
+    },
+    {
+      "name": "LIC",
+      "price": "3200.00",
+      "category": "Car",
+      "duration": "2",
+      "description": "Drive with confidence with LIC's car insurance plan, offering extensive coverage for your vehicle. Our policy safeguards you against financial losses due to accidents, theft, and third-party liabilities. Enjoy additional benefits like zero depreciation cover and roadside assistance for a worry-free driving experience.",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.rvLeW-w9kaPREOTQNX3PbQHaFj?w=580&h=435&rs=1&pid=ImgDetMain",
+      "id": "9"
+    },
+    {
+      "name": "LIC",
+      "price": "4200",
+      "category": "Life",
+      "duration": "3",
+      "description": "Secure your family's future with LIC's life insurance plan, offering a guaranteed sum assured and the potential for bonus additions. This policy provides financial protection to your loved ones in the event of your untimely demise, along with the option for partial withdrawals to meet your financial needs during your lifetime.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.2ALAVmri-QtMbD_D2svnKwHaEp?rs=1&pid=ImgDetMain",
+      "id": "10"
+    },
+    {
+      "name": "Iffco Tokio",
+      "price": "5800.00",
+      "category": "Health",
+      "duration": "1",
+      "description": "Iffco Tokio's health insurance plan is tailored to provide you with a safety net against rising medical costs. Our policy covers a wide range of medical treatments, including alternative therapies, and offers the convenience of cashless hospitalization across a vast network of partner hospitals.",
+      "image": "https://www.paybima.com/blog/wp-content/uploads/2022/07/IFFCO-Tokio-General-Insurance-Company-Limited.png",
+      "id": "11"
+    },
+    {
+      "name": "Iffco Tokio",
+      "price": "2700",
+      "category": "Car",
+      "duration": "1",
+      "description": "Iffco Tokio's car insurance plan provides all-around protection for your vehicle. Our policy includes third-party liability, own damage cover, and a host of add-ons like engine protector, consumables cover, and personal accident cover for passengers.",
+      "image": "https://yourautomotiveguru.com/wp-content/uploads/2021/01/rendered-car-in-hand-small.png",
+      "id": "12"
+    },
+    {
+      "name": "Iffco Tokio",
+      "price": "3900",
+      "category": "Life",
+      "duration": "2",
+      "description": "With Iffco Tokio's life insurance plan, ensure lifelong security for your family. Our policy offers a mix of protection and savings, providing a death benefit along with the opportunity for wealth accumulation through various investment options.",
+      "image": "https://lovemybluesky.com/wp-content/uploads/2020/08/Life-Insurance.jpg",
+      "id": "13"
+    },
+    {
+      "name": "Tata AIG",
+      "price": "5700.00",
+      "category": "Health",
+      "duration": "1",
+      "description": "Tata AIG's health insurance plan is your partner in maintaining a healthy lifestyle. It covers a comprehensive range of medical expenses, including advanced treatments and wellness benefits. Our policy also provides global coverage, ensuring you are protected no matter where you are.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.frrVrCJdOgkojPzqrsBgLwHaHa?rs=1&pid=ImgDetMain",
+      "id": "14"
+    },
+    {
+      "name": "Tata AIG",
+      "price": "2800",
+      "category": "Car",
+      "duration": "1",
+      "description": "Tata AIG's car insurance plan is designed to offer superior protection for your vehicle. Our comprehensive policy covers accidental damage, theft, and natural calamities, with the added advantage of a no-claim bonus and a range of optional covers to suit your specific needs.",
+      "image": "https://www.policybachat.com/ArticlesImages/856.jpg",
+      "id": "15"
+    },
+    {
+      "name": "Tata AIG",
+      "price": "4100",
+      "category": "Life",
+      "duration": "3",
+      "description": "Tata AIG's life insurance plan provides a solid foundation for your family's financial future. Our policy offers a guaranteed sum assured, along with flexible premium payment options and the potential for accruing bonuses. It's a reliable way to ensure your loved ones are taken care of, even in your absence.",
+      "image": "https://seniorbenefitsconsulting.com/wp-content/uploads/2021/06/AMERICAN-GENEAL-LIFE-INSURANCE.png",
+      "id": "16"
+    }
+  ],
+  "users": [
+    {
+      "name": "prayas",
+      "email": "prayas@user.com",
+      "password": "prayas123",
+      "id": "1"
+    },
+    {
+      "name": "prantap",
+      "email": "prantp@user.com",
+      "password": "prantap123",
+      "id": "2"
+    },
+    {
+      "name": "abhinay",
+      "email": "abhinay@user.com",
+      "password": "abhi123",
+      "id": "3"
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": "4"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "2860",
+      "email": "prantap@gmail.com",
+      "address": "Bangalore",
+      "contact": "238732984",
+      "totalPrice": 3100,
+      "userId": "1"
+    }
+  ]
+}
